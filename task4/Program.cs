@@ -1,0 +1,1 @@
+﻿// abstract metod i hayoliay va da hdsh 
